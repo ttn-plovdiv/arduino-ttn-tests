@@ -13,6 +13,6 @@ using ABP
 
 5. Get the `Dev Address`, `Network Session Key` and `App Session Key` of your newly created device and paste them in `src/Credentials.h`.
 
-6. Upload your sketch
+6. Upload `test_abp.ino`
 
 You should see coming packets in the dashboard.
