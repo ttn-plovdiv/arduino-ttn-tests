@@ -2,6 +2,8 @@
 
 Arduino + RN2483 test sketch to connect to [The Things Network](https://www.thethingsnetwork.org/)
 
+## Install
+`rn2xx3` library is used. You can get it from [github](https://github.com/jpmeijers/RN2483-Arduino-Library).
 
 ## Wiring
 
@@ -13,5 +15,4 @@ Arduino + RN2483 test sketch to connect to [The Things Network](https://www.thet
 |11 (software TX)|7(RX)|blue
 |10 (software RX)|6(TX)|green|
 
-## Install
-`rn2xx3` library is used. You can get it from [github](https://github.com/jpmeijers/RN2483-Arduino-Library).
+![arduno - rn2483 wiring](https://github.com/ttn-plovdiv/arduino-ttn-tests/blob/master/arduino_rn2483_wiring.jpg)
